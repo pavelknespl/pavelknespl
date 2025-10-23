@@ -8,7 +8,7 @@ Developer
 * 🖥️  See my portfolio at [My website](http://pavelknespl.me)
 * ✉️  You can contact me at [pavel.knespl3@gmail.com](mailto:pavel.knespl3@gmail.com)
 * 🧠  I'm currently learning everything
-* 🟪 [https://haxagon.cz/](Haxagon) skirmish finals 2025 7th place.
+* 🟪 [Haxagon](https://haxagon.cz/) skirmish finals 2025 7th place.
 
 <p align="left">
 <!-- Programming Languages -->
