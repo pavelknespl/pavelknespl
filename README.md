@@ -6,7 +6,7 @@ Developer
 
 * 🌍  I'm based in Mladá Boleslav
 * 🖥️  See my portfolio at [My website](http://pavelknespl.me)
-* ✉️  You can contact me at [pavel.knespl3@gmail.com](mailto:pavel.knespl3@gmail.com)
+* ✉️  You can contact me at [pavel.knespl3@gmail.com](mailto:pavel.knespl3@gmail.com) or on any platform.
 * 🧠  I'm currently learning everything
 * 🟪 [Haxagon](https://haxagon.cz/) skirmish finals 2025 7th place.
 
