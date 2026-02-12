@@ -9,6 +9,7 @@ Developer
 * ✉️  You can contact me at [pavel.knespl3@gmail.com](mailto:pavel.knespl3@gmail.com) or on any platform.
 * 🧠  I'm currently learning everything
 * 🟪 [Haxagon](https://haxagon.cz/) skirmish finals 2025 7th place. Haxagon Středočeský kraj 2025 1st place.
+* 👨‍🎓 Doing IT and organisation in [scg](https://scg.cz)
 
 <p align="left">
 <!-- Programming Languages -->
